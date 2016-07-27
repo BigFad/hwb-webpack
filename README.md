@@ -12,3 +12,6 @@
 ###  第一步：npm install 安装所需依赖
 ###  第二部：npm start  启动项目
 ###  第三部：npm run build  打包项目 
+
+```
+[参考文档](https://zhuanlan.zhihu.com/p/20397902?refer=FrontendMagazine)
